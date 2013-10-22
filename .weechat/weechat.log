@@ -1,0 +1,31 @@
+[2013-10-22 13:10:15] weechat 0.3.8 (compiled on Dec 17 2012 20:57:14)
+[2013-10-22 13:10:15] Writing configuration file weechat.conf (default options)
+[2013-10-22 13:10:15] Reading configuration file weechat.conf
+[2013-10-22 13:10:15] Writing configuration file plugins.conf (default options)
+[2013-10-22 13:10:15] Reading configuration file plugins.conf
+[2013-10-22 13:10:15] Writing configuration file irc.conf (default options)
+[2013-10-22 13:10:15] Reading configuration file irc.conf
+[2013-10-22 13:10:15] Writing configuration file logger.conf (default options)
+[2013-10-22 13:10:15] Reading configuration file logger.conf
+[2013-10-22 13:10:15] Writing configuration file charset.conf (default options)
+[2013-10-22 13:10:15] Reading configuration file charset.conf
+[2013-10-22 13:10:15] Writing configuration file xfer.conf (default options)
+[2013-10-22 13:10:15] Reading configuration file xfer.conf
+[2013-10-22 13:10:15] Writing configuration file rmodifier.conf (default options)
+[2013-10-22 13:10:15] Reading configuration file rmodifier.conf
+[2013-10-22 13:10:15] Writing configuration file relay.conf (default options)
+[2013-10-22 13:10:15] Reading configuration file relay.conf
+[2013-10-22 13:10:15] Writing configuration file alias.conf (default options)
+[2013-10-22 13:10:15] Reading configuration file alias.conf
+[2013-10-22 13:10:15] Writing configuration file aspell.conf (default options)
+[2013-10-22 13:10:15] Reading configuration file aspell.conf
+[2013-10-22 13:11:38] Writing configuration file plugins.conf 
+[2013-10-22 13:11:38] Writing configuration file aspell.conf 
+[2013-10-22 13:11:38] Writing configuration file alias.conf 
+[2013-10-22 13:11:38] Writing configuration file relay.conf 
+[2013-10-22 13:11:38] Writing configuration file rmodifier.conf 
+[2013-10-22 13:11:38] Writing configuration file xfer.conf 
+[2013-10-22 13:11:38] Writing configuration file charset.conf 
+[2013-10-22 13:11:38] Writing configuration file logger.conf 
+[2013-10-22 13:11:38] Writing configuration file irc.conf 
+[2013-10-22 13:11:38] Writing configuration file weechat.conf 

@@ -1,0 +1,83 @@
+! ==== Xterm ====
+
+*customization: -color
+XTerm*termName: xterm-256color
+
+! ==== URxvt ====
+
+URxvt*scrollBar_right: false
+URxvt*scrollBar: false
+URxvt*borderless: false
+
+!URxvt.font: xft:Terminus-10
+URxvt*font:  xft:DejaVu Sans Mono for Powerline:style=Regular:pixelsize=14
+URxvt*boldFont: xft:DejaVu Sans Mono for Powerline:style=Bold,BoldForPowerline:pixelsize=14
+
+URxvt*inheritPixmap: true
+URxvt*tintColor: gray
+URxvt*shading: 70
+URxvt*fading: 20
+URxvt*geometry: 84x24
+
+URxvt.perl-ext-common : default,matcher
+URxvt.urlLauncher     : google-chrome
+URxvt.matcher.button  : 1
+ 
+URxvt*termName: rxvt-256color
+URxvt*xftAntialias: true
+URxvt*background: #3f3f3f
+URxvt*foreground: #dcdccc
+URxvt*cursorColor: #aaaaaa
+URxvt*colorUL: #366060
+URxvt*underlineColor: #dfaf8f
+
+! ==== Zenburn Colors ====
+!URxvt*color0: #3f3f3f
+!URxvt*color1: #cc9393
+!URxvt*color2: #7f9f7f
+!URxvt*color3: #d0bf8f
+!URxvt*color4: #6ca0a3
+!URxvt*color5: #dc8cc3
+!URxvt*color6: #93e0e3
+!URxvt*color7: #dcdccc
+!URxvt*color8: #000000
+!URxvt*color9: #dca3a3
+!URxvt*color10: #bfebbf
+!URxvt*color11: #f0dfaf
+!URxvt*color12: #8cd0d3
+!URxvt*color13: #dc8cc3
+!URxvt*color14: #93e0e3
+!URxvt*color15: #ffffff
+
+! ==== Gutterslob Colors ====
+!Black
+URxvt*color0:        #444546
+URxvt*color8:        #6d6d6e
+
+!Red
+URxvt*color1:        #ad6f71
+URxvt*color9:        #d4878a
+
+!Green
+URxvt*color2:        #7bad6f
+URxvt*color10:       #93d487
+
+!Yellow
+URxvt*color3:        #ada16f
+URxvt*color11:       #d2c085
+
+!Blue
+URxvt*color4:        #6f88ad
+URxvt*color12:       #87abd4
+
+!Magenta
+URxvt*color5:        #a06fad
+URxvt*color13:       #c887d4
+
+!Cyan
+URxvt*color6:        #6ca9a1
+URxvt*color14:       #84d0c5
+
+!White
+URxvt*color7:        #ababab
+URxvt*color15:       #cdcecf
